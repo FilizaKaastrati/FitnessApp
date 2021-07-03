@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8aa98113-1c63-4523-90b5-4bf483ab980c" name="Default Changelist" comment="final project" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="c18908372e6508cf42ead95a43685bb45325e8ef" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="1323a2cb-c453-4958-9293-40857b36ae29" />
+  </component>
+  <component name="ProjectId" id="1ulWQdg4MqCLt2DQxmdeDzIIJc3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/fitnes-app" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\getoa\Desktop\anda\FitnessApp\fitnes-app" />
+      <recent name="C:\Users\getoa\Desktop\anda\FitnessApp" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8aa98113-1c63-4523-90b5-4bf483ab980c" name="Default Changelist" comment="" />
+      <created>1625240642340</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1625240642340</updated>
+      <workItem from="1625240645418" duration="646000" />
+      <workItem from="1625241314916" duration="637000" />
+      <workItem from="1625242074956" duration="947000" />
+      <workItem from="1625243866048" duration="2071000" />
+      <workItem from="1625246035710" duration="675000" />
+      <workItem from="1625300798593" duration="29000" />
+      <workItem from="1625301228929" duration="3450000" />
+    </task>
+    <task id="LOCAL-00001" summary="test">
+      <created>1625241138145</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1625241138145</updated>
+    </task>
+    <task id="LOCAL-00002" summary="&quot;Backend of fitness app&quot;">
+      <created>1625241384992</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1625241384992</updated>
+    </task>
+    <task id="LOCAL-00003" summary="&quot;Frontend of fitness app&quot;">
+      <created>1625242185907</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1625242185907</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Revert &quot;&quot;Frontend of fitness app&quot;&quot;&#10;&#10;This reverts commit de193ef5">
+      <created>1625244268169</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1625244268169</updated>
+    </task>
+    <task id="LOCAL-00005" summary="&quot;Frontend of fitness app&quot;">
+      <created>1625244408055</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1625244408055</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Test">
+      <created>1625244668238</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1625244668238</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Test">
+      <created>1625245514377</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1625245514377</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Frontend app">
+      <created>1625245599433</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1625245599433</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Frontend app">
+      <created>1625245807009</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1625245807009</updated>
+    </task>
+    <task id="LOCAL-00010" summary="changes">
+      <created>1625314765917</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1625314765917</updated>
+    </task>
+    <task id="LOCAL-00011" summary="final project">
+      <created>1625315275801</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1625315275801</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="test" />
+    <MESSAGE value="&quot;Backend of fitness app&quot;" />
+    <MESSAGE value="Revert &quot;&quot;Frontend of fitness app&quot;&quot;&#10;&#10;This reverts commit de193ef5" />
+    <MESSAGE value="&quot;Frontend of fitness app&quot;" />
+    <MESSAGE value="Test" />
+    <MESSAGE value="Frontend app" />
+    <MESSAGE value="changes" />
+    <MESSAGE value="final" />
+    <MESSAGE value="final project" />
+    <option name="LAST_COMMIT_MESSAGE" value="final project" />
+  </component>
+</project>

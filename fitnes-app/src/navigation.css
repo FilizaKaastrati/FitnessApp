@@ -1,0 +1,58 @@
+.navbar-custom {
+    background-color: #F8AFA6;
+    color:black ;
+    margin-top: -10px;
+
+}
+.navbar-custom:hover{
+    color: black;
+    text-decoration-line: none;
+    background-color: #e6a49a;
+}
+/* change the brand and text color */
+.navbar-custom .navbar-brand,
+.navbar-custom .navbar-text {
+    color:#ffffff;
+    
+}
+.navbar {
+    min-height: 50px;
+    margin-left: -5px;
+    padding-left: -5px;
+}
+
+/* change the color of active or hovered links */
+.navbar-custom .nav-item.active .nav-link,
+.navbar-custom .nav-item:hover .nav-link {
+    color: #ffffff;
+}
+.test{
+display: flex;
+}
+.navbar{
+    width:110% !important;
+    
+    left:0;
+    right:40px;
+    padding:0;
+}
+
+
+.fitnesIcon{
+    
+    color: BLACK;
+    
+    margin-top:11px;
+    display: flex;
+    background-color: #F8AFA6;
+
+
+}
+
+.fitnesIcon p {
+    font-family: 'Kaushan Script', cursive;
+size:5px;
+
+}
+
+
