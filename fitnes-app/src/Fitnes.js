@@ -1,6 +1,6 @@
 import React,{Component} from 'react';
 import {Table} from 'react-bootstrap';
-
+import "./index.css";
 import {Button,ButtonToolbar} from 'react-bootstrap';
 import {AddFitModal} from './AddFitModal';
 import {EditFitModal} from './EditFitModal';

@@ -50,7 +50,7 @@ export class AddFitModal extends Component{
                      <Col sm={6}>
                          <Form onSubmit={this.handleSubmit}>
                              <Form.Group controlId="FitnesName">
-                                 <Form.Label>DepartmentName</Form.Label>
+                                 <Form.Label>FitnesName</Form.Label>
                                  <Form.Control type="text" name="FitnesName" required
                                  placeholder="FitnesName"/>
                              </Form.Group>
